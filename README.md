@@ -1,4 +1,4 @@
-## Hi!, I am Nacnano
+## Hi!, I am Bobby
 
 - A curious student with coding and mathematics skills who is seeking to contribute to the world
 - I like software engineering, mostly backend stuff. You can view my resume ["Here"](https://resume-nacnano.vercel.app/).
