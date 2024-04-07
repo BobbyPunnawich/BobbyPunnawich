@@ -30,13 +30,14 @@
 ## Projects
 
 - **Warehouse of Heart Website**: Led the development and managed a team for the frontend using Next.js, creating an immersive online exhibition experience.
+[Visit the Warehouse of Heart website](https://warehouseofheart.coachbychamp.com/)
 - **VacQ**: Engineered a web-based system for COVID-19 vaccination scheduling, handling backend development with Node.js and MongoDB.
 - **MyThingsToDo**: Independently developed a personal to-do list application using the MERN stack, managing the project from conception to deployment.
 
 ## Social Accounts
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BobbyPunnawich)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punnawich-yiamsombat/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punnawich-yiamsombat-72b321214/)
 
 ## Statistics
 
